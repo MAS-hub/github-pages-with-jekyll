@@ -2,7 +2,7 @@
 title: Python and others animals
 author: MAS-hub
 email: aeaeiaio@gmail.com
-theme: jekyll-theme-cayman
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Just another blog about Python
 
